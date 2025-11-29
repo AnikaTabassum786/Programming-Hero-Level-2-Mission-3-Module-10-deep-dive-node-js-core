@@ -1,0 +1,24 @@
+{
+  "name": "module-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "append.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnikaTabassum786/Programming-Hero-Level-2-Mission-3-Module-10-deep-dive-node-js-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnikaTabassum786/Programming-Hero-Level-2-Mission-3-Module-10-deep-dive-node-js-core/issues"
+  },
+  "homepage": "https://github.com/AnikaTabassum786/Programming-Hero-Level-2-Mission-3-Module-10-deep-dive-node-js-core#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
